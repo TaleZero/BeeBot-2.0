@@ -53,6 +53,6 @@ If you have troubles with installing sodium for the bot, you can use the link be
 
 [Discord Server](https://discord.gg/q4mAbPK)
 
-[Forum post](https://forum.hivemc.com/forums/)
+[Forum post](https://forum.hivemc.com/threads/beebot-2-0-discord-bot-for-hive-players.299018/)
 
 [sodium download](https://drive.google.com/file/d/1E-AjE6b9mTCE8OwOqy5gUrilsOY2BuN7/view)
